@@ -10,3 +10,4 @@ hello jdh! hello git!
 这是在hot-fix分支上新添的内容
 master上新增
 hot-fix新增内容2
+hello jdh! hello git by others
