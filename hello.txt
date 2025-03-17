@@ -7,4 +7,4 @@ hello jdh! hello git!
 hello jdh! hello git!
 这一行是在git上面新添的一行
 这一行是在github上面新添的一行
-换了个分支
+这是在hot-fix分支上新添的内容
